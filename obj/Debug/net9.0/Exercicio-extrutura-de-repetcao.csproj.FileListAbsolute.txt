@@ -1,0 +1,14 @@
+C:\Users\FIC\Desktop\FlavioProjetos\EstruturasRepeticao\Exercicio-extrutura-de-repetcao\bin\Debug\net9.0\Exercicio-extrutura-de-repetcao.exe
+C:\Users\FIC\Desktop\FlavioProjetos\EstruturasRepeticao\Exercicio-extrutura-de-repetcao\bin\Debug\net9.0\Exercicio-extrutura-de-repetcao.deps.json
+C:\Users\FIC\Desktop\FlavioProjetos\EstruturasRepeticao\Exercicio-extrutura-de-repetcao\bin\Debug\net9.0\Exercicio-extrutura-de-repetcao.runtimeconfig.json
+C:\Users\FIC\Desktop\FlavioProjetos\EstruturasRepeticao\Exercicio-extrutura-de-repetcao\bin\Debug\net9.0\Exercicio-extrutura-de-repetcao.dll
+C:\Users\FIC\Desktop\FlavioProjetos\EstruturasRepeticao\Exercicio-extrutura-de-repetcao\bin\Debug\net9.0\Exercicio-extrutura-de-repetcao.pdb
+C:\Users\FIC\Desktop\FlavioProjetos\EstruturasRepeticao\Exercicio-extrutura-de-repetcao\obj\Debug\net9.0\Exercicio-extrutura-de-repetcao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FIC\Desktop\FlavioProjetos\EstruturasRepeticao\Exercicio-extrutura-de-repetcao\obj\Debug\net9.0\Exercicio-extrutura-de-repetcao.AssemblyInfoInputs.cache
+C:\Users\FIC\Desktop\FlavioProjetos\EstruturasRepeticao\Exercicio-extrutura-de-repetcao\obj\Debug\net9.0\Exercicio-extrutura-de-repetcao.AssemblyInfo.cs
+C:\Users\FIC\Desktop\FlavioProjetos\EstruturasRepeticao\Exercicio-extrutura-de-repetcao\obj\Debug\net9.0\Exercicio-extrutura-de-repetcao.csproj.CoreCompileInputs.cache
+C:\Users\FIC\Desktop\FlavioProjetos\EstruturasRepeticao\Exercicio-extrutura-de-repetcao\obj\Debug\net9.0\Exercicio-extrutura-de-repetcao.dll
+C:\Users\FIC\Desktop\FlavioProjetos\EstruturasRepeticao\Exercicio-extrutura-de-repetcao\obj\Debug\net9.0\refint\Exercicio-extrutura-de-repetcao.dll
+C:\Users\FIC\Desktop\FlavioProjetos\EstruturasRepeticao\Exercicio-extrutura-de-repetcao\obj\Debug\net9.0\Exercicio-extrutura-de-repetcao.pdb
+C:\Users\FIC\Desktop\FlavioProjetos\EstruturasRepeticao\Exercicio-extrutura-de-repetcao\obj\Debug\net9.0\Exercicio-extrutura-de-repetcao.genruntimeconfig.cache
+C:\Users\FIC\Desktop\FlavioProjetos\EstruturasRepeticao\Exercicio-extrutura-de-repetcao\obj\Debug\net9.0\ref\Exercicio-extrutura-de-repetcao.dll
